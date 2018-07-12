@@ -5,12 +5,12 @@
 ---
 ## 개요
  [1.](https://github.com/chibichichi/CGSS-Jewel#%EC%A3%BC%EC%9D%98-%EC%82%AC%ED%95%AD) 주의 사항 </br>
- [2.](###알아 두면 좋은 것) 알아 두면 좋은 것 </br>
- [3.](###기본적인 주얼 공식) 기본적인 주얼 공식 </br>
- [4.](###이벤트 퀘스트 내역) 이벤트 퀘스트 내역 </br>
- [5.](###요약) 요약 </br>
- [6.](###기간제 주얼? 무제한 주얼?) 기간제 주얼? 무제한 주얼? </br>
- [7.](###주얼을 효과적으로 버는 방법) 주얼을 효과적으로 버는 방법 </br>
+ [2.](https://github.com/chibichichi/CGSS-Jewel#%EC%95%8C%EC%95%84-%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83) 알아 두면 좋은 것 </br>
+ [3.](https://github.com/chibichichi/CGSS-Jewel#%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EC%A3%BC%EC%96%BC-%EA%B3%B5%EC%8B%9D) 기본적인 주얼 공식 </br>
+ [4.](https://github.com/chibichichi/CGSS-Jewel#%EC%9D%B4%EB%B2%A4%ED%8A%B8-%ED%80%98%EC%8A%A4%ED%8A%B8-%EB%82%B4%EC%97%AD) 이벤트 퀘스트 내역 </br>
+ [5.](https://github.com/chibichichi/CGSS-Jewel#%EC%9A%94%EC%95%BD) 요약 </br>
+ [6.](https://github.com/chibichichi/CGSS-Jewel#%EA%B8%B0%EA%B0%84%EC%A0%9C-%EC%A3%BC%EC%96%BC-%EB%AC%B4%EC%A0%9C%ED%95%9C-%EC%A3%BC%EC%96%BC) 기간제 주얼? 무제한 주얼? </br>
+ [7.](https://github.com/chibichichi/CGSS-Jewel#%EC%A3%BC%EC%96%BC%EC%9D%84-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%B2%84%EB%8A%94-%EB%B0%A9%EB%B2%95) 주얼을 효과적으로 버는 방법 </br>
  ---
 
 ### 주의 사항
