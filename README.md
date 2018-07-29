@@ -151,4 +151,4 @@ __**이 로테이션은 기본 로테이션이며 변경 될 수 있는 점을 �
 
  ### **_잘못된 것이 있거나 추가 사항이 있으면 꼭 알려주세요!!_**
 </br>
- [트위터](https://twitter.com/chocolat_chibi) </br>
+ [Twitter Link](https://twitter.com/chocolat_chibi) </br>
