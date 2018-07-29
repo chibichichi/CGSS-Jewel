@@ -1,6 +1,6 @@
 ## 데레스테 주얼을 얼만큼 얻을 수 있는지 알아보자
 
-~~아 중요한 건 미리아 귀여워~~
+~~미리아 귀여워 사랑스러워~~
 
 ---
 ## 개요
@@ -11,8 +11,8 @@
  [5.](https://github.com/chibichichi/CGSS-Jewel#%EC%9A%94%EC%95%BD) 요약 </br>
  [6.](https://github.com/chibichichi/CGSS-Jewel#%EA%B8%B0%EA%B0%84%EC%A0%9C-%EC%A3%BC%EC%96%BC-%EB%AC%B4%EC%A0%9C%ED%95%9C-%EC%A3%BC%EC%96%BC) 기간제 주얼? 무제한 주얼? </br>
  [7.](https://github.com/chibichichi/CGSS-Jewel#%EC%A3%BC%EC%96%BC%EC%9D%84-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%B2%84%EB%8A%94-%EB%B0%A9%EB%B2%95) 주얼을 효과적으로 버는 방법 </br>
+ [8.](https://github.com/chibichichi/CGSS-Jewel#contact-us) contact us
 
- 
  ---
 
 ### 주의 사항
@@ -42,6 +42,8 @@ __**이 로테이션은 기본 로테이션이며 변경 될 수 있는 점을 �
 
 - 출석 보상의 순서
 >+20 드링크 -> 50주얼 -> 200 인연 포인트 -> +30 드링크 -> 50주얼 -> 3000골드 -> 50주얼
+
+![image-1](https://pbs.twimg.com/media/DjSRgywVAAA6IU1.jpg)
 
 ---
 
@@ -142,3 +144,11 @@ __**이 로테이션은 기본 로테이션이며 변경 될 수 있는 점을 �
 	5. LIVE PARTY에서 주얼및 아이돌을 다 획득하였을 때는 통상 LIVE 100클작
 	6. 시간이 남으면 풀콤작 연습
 	7. 마플이 될 시에 마플 50클작
+
+ ---
+
+ ### contact us
+
+ ### **_잘못된 것이 있거나 추가 사항이 있으면 꼭 알려주세요!!_**
+</br>
+ [트위터](https://twitter.com/chocolat_chibi) </br>
